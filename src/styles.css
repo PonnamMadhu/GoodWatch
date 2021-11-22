@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: mistyrose;
+}
+h4 {
+  color: black;
+}
+.heading-title {
+  color: darkslategrey;
+}
+button {
+  padding: rem;
+  margin: 1rem;
+  background-color: lightgrey;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+li {
+  text-align: center;
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid black;
+  width: 40%;
+  height: 10vh;
+  margin: 1rem 0rem;
+  border-radius: 3rem;
+  background-color: lightgrey;
+}
